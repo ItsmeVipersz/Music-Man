@@ -511,7 +511,7 @@ async def play(_, message: Message):
                         "Official Group", url="https://t.me/Republicfriend"
                     ),
                     InlineKeyboardButton(
-                        "Owner Starz Music", url="https://www.instagram.com/enjouecollectifxx"
+                        "Starz Music", url="https://www.instagram.com/enjouecollectifxx"
                     )
                 ],
                 [       
@@ -646,7 +646,7 @@ async def deezer(client: Client, message_: Message):
                         "Official Group", url="https://t.me/Republicfriend"
                     ),
                     InlineKeyboardButton(
-                        "Owner Starz Music", url="https://www.instagram.com/enjouecollectifxx"
+                        "Starz Music", url="https://www.instagram.com/enjouecollectifxx"
                     )
                 ],
              [       
@@ -782,7 +782,7 @@ async def jiosaavn(client: Client, message_: Message):
                         "Official Group", url="https://t.me/Republicfriend"
                     ),
                     InlineKeyboardButton(
-                        "Owner Starz Music", url="https://www.instagram.com/enjouecollectifxx"
+                        "Starz Music", url="https://www.instagram.com/enjouecollectifxx"
                     )
                 ],
              [       
