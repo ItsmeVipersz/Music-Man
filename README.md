@@ -1,4 +1,4 @@
-<h1 align="centre"> Starz Music bot✨ </h1>
+<h1 align="centre"> Starz Music ✨ </h1>
 
 ### A bot that can Play Music on Telegram Group's Voice Call
 
@@ -6,13 +6,13 @@
 
 - Thumbnail Support
 - Playlist Support
-- Current playback support
-- Showing track names when skipping
-- Zero downtime, Fully Stable
+- Current Playback Support
+- Showing Track Names When Skipping
+- Zero Downtime, Fully Stable
 - DEEZER,YOUTUBE & SAAVN PLAYBACK SUPPORTED
-- Settings panel
-- Control with buttons
-- Userbot auto join
+- Settings Panel
+- Control With Buttons
+- Userbot Auto Join
 
 ### Commands 🛠
 #### For All in Group
@@ -29,13 +29,13 @@
 - `/video <song name>` - download videos you want quickly
 
 #### Admins Only.
-- `/player` - open music player settings panel
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - stop music play
-- `/userbotjoin` - invite assistant to your chat
-- `/userbotleave` - remove assistant from your chat
+- `/player` - Open music player settings panel
+- `/pause` - Pause song play
+- `/resume` - Resume song play
+- `/skip` - Play next song
+- `/end` - Stop music play
+- `/userbotjoin` - Invite assistant to your chat
+- `/userbotleave` - Remove assistant from your chat
 - `/admincache` - Refresh admin list
 
 ## Based on Callsmusic-1 & DAISYXMUSIC 
