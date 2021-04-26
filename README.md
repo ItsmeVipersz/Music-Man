@@ -45,9 +45,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrismanaziz/Music-Man)
 
-### Gabung ke Group Kami
+### Gabung ke Official Group Kami
 
-Gabung Ke [Grup Kami](https://t.me/Republicfriend) [TEKAN DISINI](https://t.me/Republicfriend) Untuk Masuk Ke [Grup Kami](https://t.me/Republicfriend) Terimakasih 
+Gabung Ke [Official Group Kami](https://t.me/Republicfriend) [Tekan Disini](https://t.me/Republicfriend) Untuk Masuk Ke [Grup Kami](https://t.me/Republicfriend) Terimakasih 
 
 ### Credits
 - [Rezy](https://t.me/ItsmeAlsya)
