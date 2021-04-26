@@ -38,7 +38,8 @@
 - `/userbotleave` - remove assistant from your chat
 - `/admincache` - Refresh admin list
 
-## Based on Callsmusic-1 & DAISYXMUSIC [Rezy](https://t.me/ItsmeAlsya)
+## Based on Callsmusic-1 & DAISYXMUSIC 
+[Rezy](https://t.me/ItsmeAlsya)
 
 ### Deploy To Heroku</h4>
 
@@ -46,7 +47,7 @@
 
 ### Gabung ke Group Kami
 
-Gabung Ke [Grup Kami](https://t.me/Republicfriend)Lalu Ketik [TEKAN DISINI](https://t.me/Republicfriend) Untuk Masuk Ke [Grup Kami](https://t.me/Republicfriend)
+Gabung Ke [Grup Kami](https://t.me/Republicfriend) [TEKAN DISINI](https://t.me/Republicfriend) Untuk Masuk Ke [Grup Kami](https://t.me/Republicfriend) Terimakasih 
 
 ### Credits
 - [Risman](https://github.com/mrismanaziz)
