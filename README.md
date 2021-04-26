@@ -47,7 +47,7 @@
 
 ### Gabung ke Official Group Kami
 
-Gabung Ke [Official Group Kami](https://t.me/Republicfriend) [Tekan Disini](https://t.me/Republicfriend) Untuk Masuk Ke [Grup Kami](https://t.me/Republicfriend) Terimakasih 
+Gabung Ke [Official Group Kami](https://t.me/Republicfriend) [Tekan Disini](https://t.me/Republicfriend) Untuk Masuk Ke [Official Group Kami](https://t.me/Republicfriend) Terimakasih 
 
 ### Credits
 - [Rezy](https://t.me/ItsmeAlsya)
