@@ -32,7 +32,7 @@ async def start(_, message: Message):
             [ 
                 [
                     InlineKeyboardButton(
-                        "✨ Republic Friends✨", url="https://t.me/Republicfriend")
+                        "✨Republic Friends✨", url="https://t.me/Republicfriend")
                   ],[
                     InlineKeyboardButton(
                         "My Master", url="https://t.me/ItsmeAlsya"
