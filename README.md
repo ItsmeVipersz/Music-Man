@@ -1,4 +1,4 @@
-<h1 align="centre"> Starz Music bot </h1>
+<h1 align="centre"> Starz Music bot✨ </h1>
 
 ### A bot that can Play Music on Telegram Group's Voice Call
 
@@ -15,7 +15,7 @@
 - Userbot auto join
 
 ### Commands 🛠
-#### For all in group
+#### For All in Group
 
 - `/play <song name>` - play song you requested
 - `/dplay <song name>` - play song you requested via deezer
@@ -28,7 +28,7 @@
 - `/saavn <song name>` - download songs you want quickly via saavn
 - `/video <song name>` - download videos you want quickly
 
-#### Admins only.
+#### Admins Only.
 - `/player` - open music player settings panel
 - `/pause` - pause song play
 - `/resume` - resume song play
@@ -39,7 +39,7 @@
 - `/admincache` - Refresh admin list
 
 ## Based on Callsmusic-1 & DAISYXMUSIC 
-Fork Dari [Rezy](https://t.me/ItsmeAlsya)
+# [Rezy](https://t.me/ItsmeAlsya)
 
 ### Deploy To Heroku</h4>
 
@@ -50,6 +50,7 @@ Fork Dari [Rezy](https://t.me/ItsmeAlsya)
 Gabung Ke [Grup Kami](https://t.me/Republicfriend) [TEKAN DISINI](https://t.me/Republicfriend) Untuk Masuk Ke [Grup Kami](https://t.me/Republicfriend) Terimakasih 
 
 ### Credits
+- [Rezy](https://t.me/ItsmeAlsya)
 - [Risman](https://github.com/mrismanaziz)
 - [InukaASiTH](https://github.com/InukaAsith): Dev
 - [Wrench](https://github.com/EverythingSuckz/): Dev
