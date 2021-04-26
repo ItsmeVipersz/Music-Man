@@ -1,6 +1,6 @@
-<h1 align="centre">🎵 BOT MUSIC MAN 🎵</h1>
+<h1 align="centre">🎵 BOT MUSIC STARZ 🎵</h1>
 
-### A bot that can play music on telegram group's voice call
+### A bot that can play music on telegram Group's Voice Call
 
 <h2> Whats new 🔥 </h2>
 
@@ -38,15 +38,15 @@
 - `/userbotleave` - remove assistant from your chat
 - `/admincache` - Refresh admin list
 
-## Based on Callsmusic-1 & DAISYXMUSIC
+## Based on Callsmusic-1 & DAISYXMUSIC [Rezy](https://t.me/ItsmeAlsya)
 
 ### Deploy To Heroku</h4>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrismanaziz/Music-Man)
 
-### Generate String Session
+### Gabung ke Group Kami
 
-Gabung Ke [Grup Support](https://t.me/sharinguserbot) Man-UserBot Lalu Ketik #string [TEKAN DISINI](https://t.me/sharinguserbot) Untuk Masuk Ke [Grup Support](https://t.me/sharinguserbot)
+Gabung Ke [Grup Kami](https://t.me/Republicfriend)Lalu Ketik [TEKAN DISINI](https://t.me/Republicfriend) Untuk Masuk Ke [Grup Kami](https://t.me/Republicfriend)
 
 ### Credits
 - [Risman](https://github.com/mrismanaziz)
