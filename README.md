@@ -1,4 +1,4 @@
-<h1 align="centre">🎵 BOT MUSIC STARZ 🎵</h1>
+<h1 align="centre"> Starz Music bot </h1>
 
 ### A bot that can play music on telegram Group's Voice Call
 
@@ -39,7 +39,7 @@
 - `/admincache` - Refresh admin list
 
 ## Based on Callsmusic-1 & DAISYXMUSIC 
-[Rezy](https://t.me/ItsmeAlsya)
+Fork Dari [Rezy](https://t.me/ItsmeAlsya)
 
 ### Deploy To Heroku</h4>
 
