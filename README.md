@@ -1,6 +1,6 @@
 <h1 align="centre"> Starz Music bot </h1>
 
-### A bot that can play music on telegram Group's Voice Call
+### A bot that can Play Music on Telegram Group's Voice Call
 
 <h2> Whats new 🔥 </h2>
 
